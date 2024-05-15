@@ -4,3 +4,5 @@
 
 /.vs
 /obj
+/ARC4LibNet90/obj
+/ARC4LibNet90/bin/Debug/net9.0
